@@ -1,7 +1,7 @@
 {
   "homepage": "https://papajaja.github.io/paint",
   "name": "react-paint",
-  "version": "0.1.0",
+  "version": "1.0.4",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
